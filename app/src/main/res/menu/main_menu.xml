@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/showMovie"
+        android:enabled="true"
+        android:icon="@drawable/ic_baseline_slideshow_24"
+        android:title="Show" />
+    <item
+        android:id="@+id/createMovie"
+        android:enabled="true"
+        android:icon="@drawable/ic_baseline_add_box_24"
+        android:title="Create"
+
+        />
+</menu>
